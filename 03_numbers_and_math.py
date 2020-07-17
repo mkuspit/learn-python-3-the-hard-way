@@ -22,5 +22,5 @@ print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
 
-# Study Drills
+### Study Drills
 print("Hens - floating point:", 25.0 + 30 / 6)
