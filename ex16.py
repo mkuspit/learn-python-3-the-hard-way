@@ -41,4 +41,4 @@ print("And finally we close it.")
 target.close()
 
 # One must run it like this:
-# python 16_reading_and_writing_files.py ex16.txt
+# python ex16.py ex16.txt

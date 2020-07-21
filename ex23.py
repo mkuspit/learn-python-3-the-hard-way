@@ -27,4 +27,4 @@ main(languages, input_encoding, error)
 # file from https://learnpythonthehardway.org/python3/languages.txt
 
 # One must run it like this:
-# python 23_strings_bytes_and_character_encoding.py utf-8 strict
+# python ex23.py utf-8 strict

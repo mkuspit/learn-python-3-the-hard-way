@@ -35,4 +35,4 @@ script, from_file, to_file = argv
 out_file = open(to_file, 'w').write(open(from_file).read())
 
 # One must run it like this:
-# python 17_more_files.py ex17_from.txt ex17_to.txt
+# python ex17.py ex17_from.txt ex17_to.txt

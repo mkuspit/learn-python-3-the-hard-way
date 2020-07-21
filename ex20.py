@@ -33,7 +33,7 @@ current_line = current_line + 1
 print_a_line(current_line, current_file)
 
 # One must run it like this:
-# python 20_functions_and_files.py ex20.txt
+# python ex20.py ex20.txt
 
 
 ### Study Drills

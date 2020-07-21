@@ -21,4 +21,4 @@ And you have a {computer} computer. Nice!
 """)
 
 # One must run it like this:
-# python 14_prompting_and_passing.py kuspit
+# python ex14.py kuspit

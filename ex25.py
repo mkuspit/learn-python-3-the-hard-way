@@ -36,7 +36,7 @@ def print_first_and_last_sorted(sentence):
 
 # Running this code (line by line):
 # python
-# import 25_even_more_practice as ex25
+# import ex25
 # sentence = "All good things come to those who wait"
 # words = ex25.break_sentence(sentence)
 # words
